@@ -7,7 +7,7 @@
 
   I started my coding journey during the beginning of the pandemic, started out with HTML and CSS messing around with the styles and assigning attribute to things.
   Then I looked into game development and pickedup Unity and C#, but I also wanted to make mods for Minecraft, so I learned Java. And currently right now in my
-  Computer Science course, we learned the basics of Python, since I already have experience with coding I managed to pass the course with a 99 grade.
+  Computer Science course, we learned the basics of Python, since I already have experience with coding I managed to pass the course with a 98 grade.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
