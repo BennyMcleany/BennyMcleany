@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BennyMcleany</h1>
+<h1 align="center">Hi 👋, I'm Benedict Pamplona</h1>
 <h3 align="center">A teenager learning how to code</h3>
 
 - 🔭 I’m currently working on [Bob and The Household Havocs](https://bennymcleany.itch.io/bob-and-the-household-havocs)
