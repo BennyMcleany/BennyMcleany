@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Python, C#, Java, HTML and CSS**
 
+  I started my coding journey during the beginning of the pandemic, started out with HTML and CSS messing around with the styles and assigning attribute to things.
+  Then I looked into game development and pickedup Unity and C#, but I also wanted to make mods for Minecraft, so I learned Java. And currently right now in my
+  Computer Science course, we learned the basics of Python, since I already have experience with coding I managed to pass the course with a 99 grade.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/benny_mcleany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benny_mcleany" height="30" width="40" /></a>
